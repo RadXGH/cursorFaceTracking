@@ -1,3 +1,4 @@
+![algo pic](https://user-images.githubusercontent.com/85069947/123401472-098c4180-d5d1-11eb-8805-106b00347ac7.jpg)
 # Cursor Face Tracking
 _I was bored and made this :D_
 
@@ -18,3 +19,4 @@ Program uses haarcascade_frontalface_default.xml classifier for face recognition
 The program captures a user's face with a normal webcam. It uses the face recognition classifier (haarcascade_frontalface_default.xml) provided. Program doesn't work with multiple faces in 1 frame.
 For each frame, the program moves the cursor accordingly by adding a few pixels into it's current position.
 Perhaps it's easier to understand using a picture:
+![algo pic](https://user-images.githubusercontent.com/85069947/123401639-2cb6f100-d5d1-11eb-8da4-254d92750a87.jpg)
