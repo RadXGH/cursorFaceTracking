@@ -55,7 +55,6 @@ _cv2.VideoCapture(0)_
 - The above code might need to be modified for using different sources of webcams (i.e. having multiple webcams connected or using obs virtual webcam plugin (won't work with the vanilla virtual webcam)).
 
 _camSizeX = 960_
-
 _camSizeY = 540_
 
 - The size/resolution of the frame might need to be modified if the blue rectangle isn't in the middle of the screen using the code provided above.
@@ -63,11 +62,9 @@ _camSizeY = 540_
 _midOfScreenX = camSizeX / 2_
 
 _midOfScreenY = camSizeY / 2_
-
 - The size of the blue rectangle can be modified using the code above.
 
 _moveX = 30_
-
 _moveY = 30_
 
 - How fast/far the cursor changes position can be modified using the code above.
