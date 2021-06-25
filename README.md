@@ -41,9 +41,7 @@ If the Yellow Dot is ...
 8. at the III mark/space, the cursor moves diagonally downward and to the left.
 9. at the IV mark/space, the cursor moves diagonally downward and to the right.
 
-## Outro
-
-### Requirements
+## Requirements
 - normal webcam
 - keyboard
 - computer that can run .py files
@@ -52,14 +50,14 @@ If the Yellow Dot is ...
 - NumPy (version 1.21.0) _(installed with OpenCV)_
 - Pynput (version 1.6.8) _(Pynput must be version 1.6.8 for PyInstaller to work)_
 
-### Guide
+## Guide
 - simply open the main.py file and run it
 - wait until a new window pops up
 - move the green square outside the blue rectangle to move the cursor by the movement of the user's face.
 - press p on your keyboard to pause tracking.
 - press q on your keyboard to exit the program.
 
-### Important Notes
+## Important Notes
 - The captured webcam must have a 16:9 ratio of resolution.
 - The captured webcam must be straight to the user's face (not slanted/flipped).
 ```
