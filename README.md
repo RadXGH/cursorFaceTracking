@@ -19,6 +19,7 @@ The program captures a user's face with a normal webcam. It uses the face recogn
 
 Perhaps it's easier to understand using a picture:
 ![algo pic small](https://user-images.githubusercontent.com/85069947/123402205-b1097400-d5d1-11eb-96dc-156cbac943d7.jpg)
+
 Color coded:
 - Green Dots: known coordinates of the screen.
 - Yellow Dot: coordinate of the middle of the face frame (nose).
