@@ -13,7 +13,7 @@ This program was coded in Python 3.9.5 using several modules:
 Converted the main.py file into main.exe with PyInstaller.
 Program uses haarcascade_frontalface_default.xml classifier for face recognition.
 
-##The Logic
+## The Logic
 
 The program captures a user's face with a normal webcam. It uses the face recognition classifier (haarcascade_frontalface_default.xml) provided. Program doesn't work with multiple faces in 1 frame.
 For each frame, the program moves the cursor accordingly by adding a few pixels into it's current position.
