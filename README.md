@@ -5,6 +5,8 @@ _I was bored and made this :D_
 
 I coded a program to control the cursor of a computer with tracking a person's face using a normal webcam.
 
+Created in a virtual environment and used pip version 21.1.2 for module installations.
+
 This program was coded in Python 3.9.5 using several modules:
 - OpenCV (version 4.5.2)
 - NumPy (version 1.21.0)
