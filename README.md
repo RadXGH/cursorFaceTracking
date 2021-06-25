@@ -44,5 +44,10 @@ Requirements for running the program:
 
 Running the program:
 - simply open the main.exe file.
+- move the green square outside the blue rectangle to move the cursor.
 - press p on your keyboard to pause tracking.
 - press q on your keyboard to exit the program.
+
+Important Notes:
+- The code might need to be modified for using different sources of webcams (i.e. having multiple webcams connected or using obs virtual webcam plugin (won't work with the vanilla virtual webcam)). _cv2.VideoCapture(0) is the code the needs to be changed for this issue_
+- The size/resolution of the frame might need to be modified if the blue rectangle isn't in the middle of the screen.
