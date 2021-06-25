@@ -44,7 +44,7 @@ Requirements for running the program:
 
 Running the program:
 - simply open the main.exe file.
-- move the green square outside the blue rectangle to move the cursor.
+- move the green square outside the blue rectangle to move the cursor by the movement of the user's face.
 - press p on your keyboard to pause tracking.
 - press q on your keyboard to exit the program.
 
