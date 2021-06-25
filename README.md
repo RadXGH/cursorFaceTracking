@@ -85,3 +85,7 @@ moveX = 30
 moveY = 30
 ```
 - How fast/far the cursor changes position can be modified using the code above.
+
+## Developer
+
+- Albert E (RadX) vradnisntlong@gmail.com
