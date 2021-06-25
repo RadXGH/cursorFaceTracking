@@ -10,7 +10,7 @@ This program was coded in Python 3.9.5 using several modules:
 - NumPy (version 1.21.0)
 - Pynput (version 1.6.8) _(Pynput must be version 1.6.8 for PyInstaller to work)_
 
-Converted the main.py file into main.exe with PyInstaller.
+Tested with PyInstaller (convert main.py into main.exe).
 Program uses haarcascade_frontalface_default.xml classifier for face recognition.
 
 ## The Logic
@@ -44,15 +44,14 @@ If the Yellow Dot is ...
 Requirements for running the program:
 - normal webcam
 - keyboard
-- computer that can run .exe files (or .py file if the user know how to run it)
+- computer that can run .py files
 
 Running the program:
-- simply open the main.exe file.
+- simply open the main.py file and run it
+- wait until a new window pops up
 - move the green square outside the blue rectangle to move the cursor by the movement of the user's face.
 - press p on your keyboard to pause tracking.
 - press q on your keyboard to exit the program.
-
-.EXE FILE: https://drive.google.com/file/d/174jHHP_ycIYFrsGMg9Cyshk63PcFHdbP/view?usp=sharing
 
 ### Important Notes
 - The captured webcam must have a 16:9 ratio of resolution.
