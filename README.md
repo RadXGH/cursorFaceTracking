@@ -12,7 +12,8 @@ This program was coded in Python 3.9.5 using several modules:
 - NumPy (version 1.21.0)
 - Pynput (version 1.6.8)
 
-Tested with PyInstaller (convert main.py into main.exe).
+Tested with PyInstaller (converts main.py into main.exe).
+
 Program uses haarcascade_frontalface_default.xml classifier for face recognition.
 
 ## The Logic
