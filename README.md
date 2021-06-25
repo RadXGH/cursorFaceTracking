@@ -53,6 +53,8 @@ Running the program:
 - press q on your keyboard to exit the program.
 
 ### Important Notes
+- The captured webcam must have a 16:9 ratio of resolution.
+- The captured webcam must be straight to the user's face (not slanted/flipped).
 ```
 faceCascade = cv2.CascadeClassifier('D:/Coding/Python 3/Cursor control with face recog/classifier/haarcascade_frontalface_default.xml')
 ```
