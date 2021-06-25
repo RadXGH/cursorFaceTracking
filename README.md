@@ -41,6 +41,7 @@ If the Yellow Dot is ...
 Requirements for running the program:
 - normal webcam
 - keyboard
+- computer that can run .exe files (or .py file if the user know how to run it)
 
 Running the program:
 - simply open the main.exe file.
