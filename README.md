@@ -49,9 +49,9 @@ Running the program:
 - press q on your keyboard to exit the program.
 
 ### Important Notes
-
-_cv2.VideoCapture(0)_
-
+```
+cv2.VideoCapture(0)
+```
 - The above code might need to be modified for using different sources of webcams (i.e. having multiple webcams connected or using obs virtual webcam plugin (won't work with the vanilla virtual webcam)).
 
 _camSizeX = 960_
