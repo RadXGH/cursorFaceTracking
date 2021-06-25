@@ -17,7 +17,10 @@ Program uses haarcascade_frontalface_default.xml classifier for face recognition
 
 The program captures a user's face with a normal webcam. It uses the face recognition classifier (haarcascade_frontalface_default.xml) provided. Program doesn't work with multiple faces in 1 frame. For each frame, the program moves the cursor accordingly by adding a few pixels into it's current position.
 
-Perhaps it's easier to understand using a picture (the user can either use this picture to understand as is or to understand while reading the code):
+Perhaps it's easier to understand using a picture:
+
+_the user can either use this picture to understand as is or to understand while reading the code_
+
 ![algo pic small](https://user-images.githubusercontent.com/85069947/123402205-b1097400-d5d1-11eb-96dc-156cbac943d7.jpg)
 
 Color coded:
