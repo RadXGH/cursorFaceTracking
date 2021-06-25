@@ -1,4 +1,4 @@
-# Cursor Face Tracking
+# Cursor Face Tracking with Python 3
 _I was bored and made this :D_
 
 ## Intro
