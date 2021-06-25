@@ -39,7 +39,7 @@ If the Yellow Dot is ...
 ## Outro
 
 Requirements for running the program:
-- any webcam
+- normal webcam
 - keyboard
 
 Running the program:
