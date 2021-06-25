@@ -35,3 +35,14 @@ If the Yellow Dot is ...
 7. at the II mark/space, the cursor moves diagonally upward and to the right.
 8. at the III mark/space, the cursor moves diagonally downward and to the left.
 9. at the IV mark/space, the cursor moves diagonally downward and to the right.
+
+## Outro
+
+Requirements for running the program:
+- any webcam
+- keyboard
+
+Running the program:
+- simply open the main.exe file.
+- press p on your keyboard to pause tracking.
+- press q on your keyboard to exit the program.
