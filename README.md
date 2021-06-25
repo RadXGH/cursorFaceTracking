@@ -49,8 +49,16 @@ Running the program:
 - press q on your keyboard to exit the program.
 
 Important Notes:
-- The code might need to be modified for using different sources of webcams (i.e. having multiple webcams connected or using obs virtual webcam plugin (won't work with the vanilla virtual webcam)).
 
-_cv2.VideoCapture(0) is the code the needs to be changed for this issue_
+_cv2.VideoCapture(0)_
 
-- The size/resolution of the frame might need to be modified if the blue rectangle isn't in the middle of the screen.
+- The above code might need to be modified for using different sources of webcams (i.e. having multiple webcams connected or using obs virtual webcam plugin (won't work with the vanilla virtual webcam)).
+
+_camSizeX = 960
+camSizeY = 540_
+- The size/resolution of the frame might need to be modified if the blue rectangle isn't in the middle of the screen using the code provided above.
+
+_midOfScreenX = camSizeX / 2
+midOfScreenY = camSizeY / 2_
+
+- The size of the blue rectangle can be modified using the above code.
