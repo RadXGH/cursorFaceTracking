@@ -19,7 +19,7 @@ The program captures a user's face with a normal webcam. It uses the face recogn
 
 Perhaps it's easier to understand using a picture:
 
-_the user can either use this picture to understand as is or to understand while reading the code_
+_this picture can be used to understand using the explanation provided at the bottom or to understand while reading the code_
 
 ![algo pic small](https://user-images.githubusercontent.com/85069947/123402205-b1097400-d5d1-11eb-96dc-156cbac943d7.jpg)
 
