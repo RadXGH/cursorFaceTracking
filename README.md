@@ -48,7 +48,7 @@ Running the program:
 - press p on your keyboard to pause tracking.
 - press q on your keyboard to exit the program.
 
-Important Notes:
+### Important Notes
 
 _cv2.VideoCapture(0)_
 
