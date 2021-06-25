@@ -45,6 +45,10 @@ Requirements for running the program:
 - normal webcam
 - keyboard
 - computer that can run .py files
+- Python 3.9.5
+- OpenCV (version 4.5.2)
+- NumPy (version 1.21.0) _(installed with OpenCV)_
+- Pynput (version 1.6.8) _(Pynput must be version 1.6.8 for PyInstaller to work)_
 
 Running the program:
 - simply open the main.py file and run it
