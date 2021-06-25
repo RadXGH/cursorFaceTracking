@@ -43,7 +43,7 @@ If the Yellow Dot is ...
 
 ## Outro
 
-Requirements for running the program:
+### Requirements
 - normal webcam
 - keyboard
 - computer that can run .py files
@@ -52,7 +52,7 @@ Requirements for running the program:
 - NumPy (version 1.21.0) _(installed with OpenCV)_
 - Pynput (version 1.6.8) _(Pynput must be version 1.6.8 for PyInstaller to work)_
 
-Running the program:
+### Guide
 - simply open the main.py file and run it
 - wait until a new window pops up
 - move the green square outside the blue rectangle to move the cursor by the movement of the user's face.
