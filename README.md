@@ -61,6 +61,7 @@ If the Yellow Dot is ...
 ## Important Notes
 - The captured webcam must have a 16:9 ratio of resolution.
 - The captured webcam must be straight to the user's face (not slanted/flipped).
+- Has only been tested on Windows 10.
 ```
 faceCascade = cv2.CascadeClassifier('D:/Coding/Python 3/Cursor control with face recog/classifier/haarcascade_frontalface_default.xml')
 ```
