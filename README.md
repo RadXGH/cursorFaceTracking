@@ -1,5 +1,7 @@
-# cursorFaceTracking
-I was bored and made this.
+# Cursor Face Tracking
+_I was bored and made this :D_
+
+## Intro
 
 I coded a program to control the cursor of a computer with tracking a person's face.
 
