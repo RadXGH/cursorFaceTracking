@@ -54,6 +54,10 @@ Running the program:
 
 ### Important Notes
 ```
+faceCascade = cv2.CascadeClassifier('D:/Coding/Python 3/Cursor control with face recog/classifier/haarcascade_frontalface_default.xml')
+```
+- The above code must be modified and changed into the exact path of the haarcascade_frontalface_default.xml file in your computer.
+```
 cv2.VideoCapture(0)
 ```
 - The above code might need to be modified for using different sources of webcams (i.e. having multiple webcams connected or using obs virtual webcam plugin (won't work with the vanilla virtual webcam)).
