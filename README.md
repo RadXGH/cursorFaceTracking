@@ -8,7 +8,7 @@ I coded a program to control the cursor of a computer with tracking a person's f
 This program was coded in Python 3.9.5 using several modules:
 - OpenCV (version 4.5.2)
 - NumPy (version 1.21.0)
-- Pynput (version 1.6.8)
+- Pynput (version 1.6.8) _Pynput must be version 1.6.8 for pyinstaller to work_
 
 Converted the main.py file into main.exe with PyInstaller.
 Program uses haarcascade_frontalface_default.xml classifier for face recognition.
