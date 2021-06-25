@@ -60,8 +60,8 @@ _camSizeY = 540_
 - The size/resolution of the frame might need to be modified if the blue rectangle isn't in the middle of the screen using the code provided above.
 
 _midOfScreenX = camSizeX / 2_
-
 _midOfScreenY = camSizeY / 2_
+
 - The size of the blue rectangle can be modified using the code above.
 
 _moveX = 30_
