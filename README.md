@@ -52,6 +52,8 @@ Running the program:
 - press p on your keyboard to pause tracking.
 - press q on your keyboard to exit the program.
 
+.EXE FILE: https://drive.google.com/file/d/174jHHP_ycIYFrsGMg9Cyshk63PcFHdbP/view?usp=sharing
+
 ### Important Notes
 - The captured webcam must have a 16:9 ratio of resolution.
 - The captured webcam must be straight to the user's face (not slanted/flipped).
