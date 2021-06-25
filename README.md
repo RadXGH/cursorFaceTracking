@@ -10,7 +10,7 @@ Created in a virtual environment and used pip version 21.1.2 for module installa
 This program was coded in Python 3.9.5 using several modules:
 - OpenCV (version 4.5.2)
 - NumPy (version 1.21.0)
-- Pynput (version 1.6.8) _(Pynput must be version 1.6.8 for PyInstaller to work)_
+- Pynput (version 1.6.8)
 
 Tested with PyInstaller (convert main.py into main.exe).
 Program uses haarcascade_frontalface_default.xml classifier for face recognition.
@@ -46,8 +46,8 @@ If the Yellow Dot is ...
 - keyboard
 - computer that can run .py files
 - Python 3.9.5
-- OpenCV (version 4.5.2)
-- NumPy (version 1.21.0) _(installed with OpenCV)_
+- OpenCV
+- NumPy _(installed with OpenCV)_
 - Pynput (version 1.6.8) _(Pynput must be version 1.6.8 for PyInstaller to work)_
 
 ## Guide
