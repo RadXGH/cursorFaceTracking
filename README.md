@@ -64,4 +64,10 @@ _midOfScreenX = camSizeX / 2_
 
 _midOfScreenY = camSizeY / 2_
 
-- The size of the blue rectangle can be modified using the above code.
+- The size of the blue rectangle can be modified using the code above.
+
+_moveX = 30_
+
+_moveY = 30_
+
+- How fast/far the cursor changes position can be modified using the code above.
