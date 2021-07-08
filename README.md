@@ -44,7 +44,7 @@ If the Yellow Dot is ...
 8. at the III mark/space, the cursor moves diagonally downward and to the left.
 9. at the IV mark/space, the cursor moves diagonally downward and to the right.
 
-## Requirements
+## Dependencies
 - normal webcam
 - keyboard
 - computer that can run .py files
